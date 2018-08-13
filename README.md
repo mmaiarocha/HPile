@@ -1,2 +1,2 @@
 # HPile
-Laterally loaded pile embedded on multilayer soil
+Laterally loaded piles embedded on multilayer soils
